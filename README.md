@@ -230,6 +230,7 @@ sudo swapoff /swapfile && sudo rm /swapfile
 
 * [The Linux Kernel Archives](https://www.kernel.org/)
 * [Kernel Newbies: Building a Kernel](https://kernelnewbies.org/KernelBuild)
+* Chatgpt 5
 
 ---
 
