@@ -230,7 +230,10 @@ sudo swapoff /swapfile && sudo rm /swapfile
 
 * [The Linux Kernel Archives](https://www.kernel.org/)
 * [Kernel Newbies: Building a Kernel](https://kernelnewbies.org/KernelBuild)
-* Chatgpt 5
+* Chatgpt 5 : 
+    * Give me a step-by-step process of kernel compilation from start for a low end device.
+    * Is there a way to shorten compilation process?
+    * Increase swap to 8GB for smoother build
 
 ---
 
